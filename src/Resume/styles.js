@@ -50,6 +50,7 @@ const styles = StyleSheet.create({
     padding: 72/2,
     justifyContent: "space-between",
     fontFamily: "SFCompact Display",
+    marginBottom: 72,
   },
 
   header: {
@@ -106,7 +107,7 @@ const styles = StyleSheet.create({
     fontFamily: "SFCompact Text",
     fontSize: 10,
     lineHeight: 1.2,
-    marginBottom: 4,
+    marginBottom: 8,
   },
 
   itemFirstLine: {
@@ -137,6 +138,7 @@ const styles = StyleSheet.create({
   itemBullet: {
     flexDirection: "row",
     alignItems: "center",
+    marginRight: "120px",
   },
 
   bullet: {
@@ -144,6 +146,11 @@ const styles = StyleSheet.create({
     marginRight: 4,
     marginTop: -2,
   },
+
+  bulletText: {
+    textIndent: -8,
+    marginLeft: 10,
+  }
 })
 
 

@@ -16,6 +16,7 @@ const Resume = props => (
         <View style={styles.contact}>
           <Text style={styles.email}>{ props.email }</Text>
           <Text style={styles.phone}>{ props.phone }</Text>
+          <Text style={styles.site}>{ props.website}</Text>
         </View>
       </View>
 
@@ -56,8 +57,7 @@ const Resume = props => (
 
               { item.bullets ? item.bullets.map((bullet, j) => (
                   <View key={j} style={styles.itemBullet}>
-                    <Text style={styles.bullet}>»</Text>
-                    <Text style={styles.bulletText}>{ bullet }</Text>
+                    <Text style={styles.bulletText}> » { bullet }</Text>
                   </View>
               )) : null }
 

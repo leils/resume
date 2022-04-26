@@ -13,7 +13,7 @@ const data = {
       dates: "Graduating May 2023",
       bullets: [
         "Creating immersive storytelling experiences embodied in the physical world",
-        "Exploring site-specific installation and spatial position tracking using UWB",
+        "Exploring site-specific installation and spatial position tracking",
         "Investigating non-traditional interfaces for intuitive interaction and expression"
       ],
     }, {

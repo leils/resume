@@ -1,7 +1,5 @@
 const data = {
   name: "Leia Chang",
-  email: "e.leiachang@gmail.com",
-  phone: "562-338-6171",
   website: "www.leiac.me",
   tagline: "Creative technologist making charming interactions",
   sections: [

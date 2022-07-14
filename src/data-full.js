@@ -11,12 +11,12 @@ const data = {
       dates: "Graduating May 2023",
       bullets: [
         "Creating immersive storytelling experiences embodied in the physical world",
-        "Exploring site-specific installation and spatial position tracking",
+        "Exploring site-specific and responsive installations",
         "Investigating non-traditional interfaces for intuitive interaction and expression"
       ],
     }, {
       summary1: "Fabrication Workshop Staff",
-      dates: "Fall 2021",
+      dates: "Fall 2021 - Spring 2022",
       bullets: [
         "Assisting students in woodshop, laser cutting, 3d printing",
         "Provides guidance in rapid fabrication and prototyping",
@@ -25,6 +25,18 @@ const data = {
   },{
     name: "Experience",
     items: [{
+      summary1: "Gray Area Org",
+      summary2: "Intern",
+      summary3: "Production & Communications",
+      dates: "June - August 2022",
+      bullets: [
+        "Production assistant for events including lighting and spatial configuration",
+        "Technical support and consultation for multi-day installations",
+        "Media content creation including copywriting and multi-platform marketing"
+      ],
+
+    },
+    {
       summary1: "Square Inc",
       summary2: "Senior Software Engineer",
       summary3: "Improving internal support tools",
@@ -57,7 +69,7 @@ const data = {
       summary2: "B.S. in Computer Science",
       dates: "Graduated June 2017",
       bullets: [
-        "Senior Project - Collaborated with dancers to create movement and sound-responsive costuming for use in performance"
+        "Senior Project: Collaborated with dancers to create movement and sound-responsive costuming for use in performance"
       ]
     }]
   }, {

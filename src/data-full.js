@@ -61,7 +61,7 @@ const data = {
       dates: "2013 - 2016",
       bullets: [
         "Square Inc, Capital Consumer Org",
-        "Google Inc, Maps",
+        "Google Inc, Maps Machine Learning",
         "EMC Dell, QA"
       ]
     }, {

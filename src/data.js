@@ -16,10 +16,26 @@ const data = {
       ],
     }, {
       summary1: "Fabrication Workshop Staff",
-      dates: "Fall 2021 - Spring 2022",
+      dates: "Fall 2021 - Fall 2022",
       bullets: [
-        "Assisting students in woodshop, laser cutting, 3d printing",
+        "Assisting students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
+        "Creates organizational processes for workshop improvement alongside training incoming staff",
+      ],
+    }, {
+      summary1: "NYU ITP Graduate Assistant for Digital Fabrication Class",
+      summary2: "Assisting Phil Caridi",
+      dates: "Fall 2022",
+      bullets: [
+        "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
+        "Mentoring students through project and concept development",
+      ],
+    }, {
+      summary1: "NYU ITP Design Lab Feedback Collective Head",
+      dates: "Fall 2022",
+      bullets: [
+        "Facilitates a weekly feedback-focused meeting resource for students",
+        "Creates a weekly curriculum and promotion material",
       ],
     }]
   },{
@@ -34,7 +50,6 @@ const data = {
         "Technical support and consultation for multi-day installations",
         "Media content creation including copywriting and multi-platform marketing"
       ],
-
     }, {
       summary1: "Square Inc",
       summary2: "Senior Software Engineer",
@@ -52,25 +67,10 @@ const data = {
         "Square Inc, Capital Consumer Org",
         "Google Inc, Maps Machine Learning",
       ]
-    }, {
-      summary1: "California Polytechnic San Luis Obispo",
-      summary2: "B.S. in Computer Science",
-      dates: "Graduated June 2017",
-      bullets: [
-        "Senior Project: Collaborated with dancers to create movement and sound-responsive costuming for use in performance"
-      ]
     }]
   }, {
     name: "Misc",
     items: [{
-      summary1: "Gray Area Immersive",
-      summary2: "3 month immersive interactive art program",
-      dates: "Fall 2019",
-      bullets: [
-        "Created Unclear, an interactive video display exploring the complexities and contradictions inherent to meditation",
-        "Work shown at Fall 2019 Gray Area Artist Showcase",
-      ],
-    }, {
       summary1: "Square Women in Engineering",
       summary2: "Diversity Group Lead",
       dates: "2018 - 2020",
@@ -93,9 +93,9 @@ const data = {
     name: "Skills",
     items: [{
       text: [
-        "Fluent in frontend frameworks (Ember, React) and software engineering best practices",
         "Proficient in microcontroller hardware including Arduino",
-        "Familiar with mechanical fabrication; laser cutting, 3D printing, introductory Solidworks and Fusion 360",
+        "Familiar with mechanical fabrication; laser cutting, 3D printing, CNC milling workflows, Fusion 360",
+        "Fluent in frontend frameworks (Ember, React) and software engineering best practices",
         "Experience with working in Adobe Suite softwares (Illustrator, Photoshop, Premiere, Audition)",
         "Comfortable with media documentation including audio/visual editing and storytelling",
         "Experienced teacher and mentor",

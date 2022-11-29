@@ -15,11 +15,27 @@ const data = {
         "Investigating non-traditional interfaces for intuitive interaction and expression"
       ],
     }, {
-      summary1: "Fabrication Workshop Staff",
-      dates: "Fall 2021 - Spring 2022",
+      summary1: "NYU ITP Fabrication Workshop Staff",
+      dates: "Fall 2021 - Fall 2022",
       bullets: [
-        "Assisting students in woodshop, laser cutting, 3d printing",
+        "Assisting students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
+        "Creates organizational processes for workshop improvement alongside training incoming staff",
+      ],
+    }, {
+      summary1: "NYU ITP Graduate Assistant for Digital Fabrication Class",
+      summary2: "Assisting Phil Caridi",
+      dates: "Fall 2022",
+      bullets: [
+        "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
+        "Mentoring students through project and concept development",
+      ],
+    }, {
+      summary1: "NYU ITP Design Lab Feedback Collective Head",
+      dates: "Fall 2022",
+      bullets: [
+        "Facilitates a weekly feedback-focused meeting resource for students",
+        "Creates a weekly curriculum and promotion material",
       ],
     }]
   },{

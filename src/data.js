@@ -93,7 +93,7 @@ const data = {
     name: "Skills",
     items: [{
       text: [
-        "Proficient in microcontroller hardware including Arduino",
+        "Proficient in microcontroller hardware including Arduino using sensors, motors, etc",
         "Familiar with mechanical fabrication; laser cutting, 3D printing, CNC milling workflows, Fusion 360",
         "Fluent in frontend frameworks (Ember, React) and software engineering best practices",
         "Experience with working in Adobe Suite softwares (Illustrator, Photoshop, Premiere, Audition)",

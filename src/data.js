@@ -26,7 +26,7 @@ const data = {
     }, {
       summary1: "Graduate Assistant", 
       summary2: "Digital Fabrication, Useless Machines",
-      dates: "Fall 2022 - Spring 2023",
+      dates: "Fall 2022 - Current",
       bullets: [
         "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
         "Mentoring students through project and concept development",
@@ -34,7 +34,7 @@ const data = {
       ],
     }, {
       summary1: "NYU ITP Design Lab Feedback Collective Head",
-      dates: "Fall 2022",
+      dates: "Fall 2022 - Current",
       bullets: [
         "Facilitates a weekly feedback-focused meeting resource for students",
         "Creates weekly curriculum and promotion material",

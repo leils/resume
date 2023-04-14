@@ -7,35 +7,37 @@ const data = {
     name: "Masters",
     items: [{
       summary1: "New York University",
-      summary2: "Masters at the Interactive Telecommunications Program",
+      summary2: "Masters at the Interactive Telecommunications Program (ITP)",
       dates: "Graduating May 2023",
       bullets: [
-        "Creating immersive storytelling experiences embodied in the physical world",
-        "Exploring site-specific and responsive installations",
-        "Investigating non-traditional interfaces for intuitive interaction and expression"
+        "Creating storytelling experiences embodied in the physical world",
+        "Exploring responsive installations and novel computational poetics ",
+        "Creating non-traditional interfaces for intuitive interaction and expression",
       ],
     }, {
       summary1: "Fabrication Workshop Staff",
-      dates: "Fall 2021 - Fall 2022",
+      dates: "Fall 2021 - Current",
       bullets: [
-        "Assisting students in woodshop, laser cutting, 3d printing, CNC milling",
+        "Training and overseeing students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
         "Creates organizational processes for workshop improvement alongside training incoming staff",
+        "Consults professors on class engagement with equipment and spaces",
       ],
     }, {
-      summary1: "NYU ITP Graduate Assistant for Digital Fabrication Class",
-      summary2: "Assisting Phil Caridi",
-      dates: "Fall 2022",
+      summary1: "Graduate Assistant", 
+      summary2: "Digital Fabrication, Useless Machines",
+      dates: "Fall 2022 - Spring 2023",
       bullets: [
         "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
         "Mentoring students through project and concept development",
+        "Organized and co-curated a 23-person exhibition to be shown at The Blanc Gallery NYC",
       ],
     }, {
       summary1: "NYU ITP Design Lab Feedback Collective Head",
       dates: "Fall 2022",
       bullets: [
         "Facilitates a weekly feedback-focused meeting resource for students",
-        "Creates a weekly curriculum and promotion material",
+        "Creates weekly curriculum and promotion material",
       ],
     }]
   },{
@@ -79,15 +81,6 @@ const data = {
         "Promoted changes in hiring and promotion practices",
         "Trained and mentored incoming software engineers"
       ],
-    }, {
-      summary1: "Blues and Tango dancing - Cal Poly SLO and SF",
-      summary2: "Teacher and Community Organizer",
-      dates: "2014 - 2020",
-      bullets: [
-        "Organized schedules for teachers, workshops, field trips",
-        "Taught weekly 2-hour lessons for beginner and intermediate dancers",
-        "Trained incoming teachers and generated lesson plans"
-      ]
     }]
   }, {
     name: "Skills",

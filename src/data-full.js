@@ -10,25 +10,27 @@ const data = {
       summary2: "Masters at the Interactive Telecommunications Program",
       dates: "Graduating May 2023",
       bullets: [
-        "Creating immersive storytelling experiences embodied in the physical world",
-        "Exploring site-specific and responsive installations",
+        "Creating storytelling experiences embodied in the physical world",
+        "Exploring responsive installations and novel computational poetics ",
         "Investigating non-traditional interfaces for intuitive interaction and expression"
       ],
     }, {
       summary1: "NYU ITP Fabrication Workshop Staff",
-      dates: "Fall 2021 - Fall 2022",
+      dates: "Fall 2021 - Current",
       bullets: [
         "Assisting students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
         "Creates organizational processes for workshop improvement alongside training incoming staff",
+        "Offers consultation on class engagement with equipment and spaces"
       ],
     }, {
-      summary1: "NYU ITP Graduate Assistant for Digital Fabrication Class",
-      summary2: "Assisting Phil Caridi",
-      dates: "Fall 2022",
+      summary1: "NYU ITP Graduate Assistant | Digital Fabrication, Useless Machines", 
+      summary2: "Assisting Phil Caridi, Blair Simmons",
+      dates: "Fall 2022 - Spring 2023",
       bullets: [
         "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
         "Mentoring students through project and concept development",
+        "Organized and co-curated a 23-person exhibition to be shown at The Blanc Gallery NYC"
       ],
     }, {
       summary1: "NYU ITP Design Lab Feedback Collective Head",
@@ -50,7 +52,6 @@ const data = {
         "Technical support and consultation for multi-day installations",
         "Media content creation including copywriting and multi-platform marketing"
       ],
-
     },
     {
       summary1: "Square Inc",

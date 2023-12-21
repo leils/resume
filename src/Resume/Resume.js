@@ -24,6 +24,7 @@ const Resume = props => (
 
       { props.sections.map(section => (
         <View key={section.name} style={styles.section}>
+          <View style={styles.sectionDivider}></View>
           <View style={styles.sectionNamePositioner}>
             <Text style={styles.sectionName}>{ section.name }</Text>
           </View>

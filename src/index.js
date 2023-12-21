@@ -12,7 +12,7 @@ console.log(window.location.href);
 const pagePath =
   typeof window !== "undefined" ? window.location.pathname.split("/")[1] : ""
 
-const desiredData = ((pagePath === "extended") ? dataExtended : data);
+const desiredData = ((pagePath === "full") ? dataExtended : data);
 
 ReactDOM.render(
   <PDFViewer width="100%" height="100%">

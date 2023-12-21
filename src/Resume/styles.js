@@ -4,6 +4,8 @@ import {
   SFCompactDisplayRegular,
   SFCompactTextRegular,
   SFCompactTextBold,
+  IBMPlexMonoMedium,
+  IBMPlexMonoSemiBoldItalic,
 } from './fonts'
 
 
@@ -44,6 +46,16 @@ Font.register({
   src: 'https://fonts.gstatic.com/s/oswald/v13/Y_TKV6o8WovbUd3m_X9aAA.ttf'
 });
 
+Font.register({
+  family: 'IBM Plex Mono',
+  fonts: [
+    { src: IBMPlexMonoMedium, fontWeight: 500 },
+    { src: IBMPlexMonoSemiBoldItalic, fontWeight: 600 },
+  ]
+})
+
+const flairColor = 'orangered'
+
 
 const styles = StyleSheet.create({
   page: {
@@ -63,6 +75,8 @@ const styles = StyleSheet.create({
   name: {
     marginTop: -2,
     fontSize: 42,
+    fontFamily: 'IBM Plex Mono',
+    color: flairColor,
   },
 
   contact: {
@@ -85,6 +99,12 @@ const styles = StyleSheet.create({
     paddingLeft: 72/2 - 5,
   },
 
+  sectionDivider: {
+    position: "relative",
+    backgroundColor: flairColor,
+    height: 12,
+  },
+
   sectionNamePositioner: {
     position: 'absolute',
     top: 2,
@@ -100,7 +120,8 @@ const styles = StyleSheet.create({
     transform: "rotate(-90deg)",
     transformOrigin: "right top",
     textTransform: "uppercase",
-    fontFamily: "Oswald",
+    fontFamily: "IBM Plex Mono",
+    color: flairColor,
   },
 
   item: {

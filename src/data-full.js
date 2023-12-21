@@ -8,7 +8,7 @@ const data = {
     items: [{
       summary1: "New York University",
       summary2: "Masters at the Interactive Telecommunications Program",
-      dates: "Graduating May 2023",
+      dates: "Graduated May 2023",
       bullets: [
         "Creating storytelling experiences embodied in the physical world",
         "Exploring responsive installations and novel computational poetics ",
@@ -16,7 +16,7 @@ const data = {
       ],
     }, {
       summary1: "NYU ITP Fabrication Workshop Staff",
-      dates: "Fall 2021 - Current",
+      dates: "Fall 2021 - Spring 2023",
       bullets: [
         "Assisting students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
@@ -25,16 +25,16 @@ const data = {
       ],
     }, {
       summary1: "NYU ITP Graduate Assistant | Digital Fabrication, Useless Machines", 
-      summary2: "Assisting Phil Caridi, Blair Simmons",
       dates: "Fall 2022 - Spring 2023",
       bullets: [
+        "Assisting Phil Caridi, Blair Simmons",
         "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
         "Mentoring students through project and concept development",
         "Organized and co-curated a 23-person exhibition to be shown at The Blanc Gallery NYC"
       ],
     }, {
       summary1: "NYU ITP Design Lab Feedback Collective Head",
-      dates: "Fall 2022",
+      dates: "Fall 2022 - Spring 2023",
       bullets: [
         "Facilitates a weekly feedback-focused meeting resource for students",
         "Creates a weekly curriculum and promotion material",
@@ -43,6 +43,14 @@ const data = {
   },{
     name: "Experience",
     items: [{
+      summary1: "Lick Wilmerding High School",
+      summary2: "Creative Code and Design Faculty",
+      dates: "August 2023 - Present",
+      bullets: [
+        "Specializes in teaching design thinking, code and electronics, prototyping to fabrication",
+        "Developing and updating curriculum for equitable student experiences, focused on classroom co-creation"
+      ],
+    },{
       summary1: "Gray Area Org",
       summary2: "Intern",
       summary3: "Production & Communications",

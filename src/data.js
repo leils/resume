@@ -20,7 +20,7 @@ const data = {
       bullets: [
         "Training and overseeing students in woodshop, laser cutting, 3d printing, CNC milling",
         "Provides guidance in rapid fabrication and prototyping",
-        "Creates organizational processes for workshop improvement alongside training incoming staff",
+        "Creates organizational processes for shop improvement/training incoming staff",
         "Consults professors on class engagement with equipment and spaces",
       ],
     }, {
@@ -31,6 +31,13 @@ const data = {
         "Provides in-class support for a 16-person undergraduate student class teaching digital fabrication techniques including CNC milling, Laser Cutting, 3D Printing",
         "Mentoring students through project and concept development",
         "Organized and co-curated a 23-person exhibition to be shown at The Blanc Gallery NYC",
+      ],
+    }, {
+      summary1: "NYU ITP Design Lab Feedback Collective Head",
+      dates: "Fall 2022 - Spring 2023",
+      bullets: [
+        "Facilitates a weekly feedback-focused meeting resource for students",
+        "Creates a weekly curriculum and promotion material",
       ],
     }]
   },{
@@ -82,11 +89,9 @@ const data = {
       text: [
         "Proficient in microcontroller hardware including Arduino using sensors, motors, PCB design, etc",
         "Familiar with mechanical fabrication; laser cutting, 3D printing, CNC milling workflows, Fusion 360, Rhino",
-        "Fluent in frontend frameworks (Ember, React) and software engineering best practices",
         "Experience with working in Adobe Suite softwares (Illustrator, Photoshop, Premiere, Audition)",
         "Comfortable with media documentation including audio/visual editing and storytelling",
-        "Experienced teacher and mentor",
-        "Quick to pick up new technologies and concepts"
+        "Experienced teacher, mentor, community organizer",
       ],
     }]
   }]

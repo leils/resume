@@ -130,13 +130,13 @@ const data = {
     name: "Skills",
     items: [{
       text: [
+        "Proficient in microcontroller hardware including Arduino using sensors, motors, PCB design, etc",
+        "Familiar with mechanical fabrication; laser cutting, 3D printing, introductory Solidworks, Fusion 360, Rhino",
         "Fluent in frontend frameworks (Ember, React) and software engineering best practices",
-        "Proficient in microcontroller hardware including Arduino",
-        "Familiar with mechanical fabrication; laser cutting, 3D printing, introductory Solidworks and Fusion 360",
         "Experience with working in Adobe Suite softwares (Illustrator, Photoshop, Premiere, Audition)",
         "Comfortable with media documentation including audio/visual editing and storytelling",
-        "Experienced teacher and mentor",
-        "Quick to pick up new technologies and concepts"
+        "Experienced teacher, mentor, and community organizer",
+        "Quick to pick up new technologies and concepts",
       ],
     }]
   }]
